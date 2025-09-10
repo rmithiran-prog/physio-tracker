@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/physio-tracker/static/css/main.4b29057b.css",
-    "main.js": "/physio-tracker/static/js/main.8cd01b5b.js",
+    "main.css": "/physio-tracker/static/css/main.d25ede4a.css",
+    "main.js": "/physio-tracker/static/js/main.cf1dd952.js",
     "static/js/488.5e4abfd8.chunk.js": "/physio-tracker/static/js/488.5e4abfd8.chunk.js",
     "index.html": "/physio-tracker/index.html",
-    "main.4b29057b.css.map": "/physio-tracker/static/css/main.4b29057b.css.map",
-    "main.8cd01b5b.js.map": "/physio-tracker/static/js/main.8cd01b5b.js.map",
+    "main.d25ede4a.css.map": "/physio-tracker/static/css/main.d25ede4a.css.map",
+    "main.cf1dd952.js.map": "/physio-tracker/static/js/main.cf1dd952.js.map",
     "488.5e4abfd8.chunk.js.map": "/physio-tracker/static/js/488.5e4abfd8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b29057b.css",
-    "static/js/main.8cd01b5b.js"
+    "static/css/main.d25ede4a.css",
+    "static/js/main.cf1dd952.js"
   ]
 }
